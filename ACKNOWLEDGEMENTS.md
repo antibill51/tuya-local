@@ -456,3 +456,7 @@ Further device support has been made with the assistance of users. Please consid
 - [lundyfpv](https://github.com/lundyfpv) for assisting with support for Touchstone Sideline electric fireplaces.
 - [tsaouste](https://github.com/tsaouste) for assisting with support for CNC YCB9ZF-100W circuit breakers.
 - [MakeItBetterSAGL](https://github.com/MakeItBetterSAGL) for assisting with support for Sonnenkonig ECO 700 heaters.
+- [aver-ua](https://github.com/aver-ua) for assisting with support for Tongou QCB2-WB circuit breakers.
+- [Sh4r0](https://github.com/Sh4r0) for assisting with support for Tesvor S6 vacuums.
+- [wholly1971](https://github.com/wholly1971) for assisting with support for Madimack Eco pool heatpumps.
+- [rbrtwillis](https://github.com/rbrtwillis) for assisting with support for Inkbird IHC-200 humidity controllers.
